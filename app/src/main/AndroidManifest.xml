@@ -13,6 +13,27 @@
         android:theme="@style/Theme.LibraLib"
         tools:targetApi="31">
         <activity
+            android:name=".ReleaseBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookLoanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SearchMemberActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SearchBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterMemberActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
