@@ -3,9 +3,9 @@
   LibraLib
 </h2>
 <div align="center">
-    <img alt="Demo" src="./images/Register.png" width="30%" />
-    <img alt="Demo" src="./images/Login.png" width="30%" />
-    <img alt="Demo" src="./images/Home.png" width="30%" />
+    <img alt="Demo" src="Interfaces/Register.png" width="30%" />
+    <img alt="Demo" src="Interfaces/Login.png" width="30%" />
+    <img alt="Demo" src="Interfaces/Home.png" width="30%" />
 </div>
 
 <br/>
