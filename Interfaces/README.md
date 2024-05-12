@@ -10,6 +10,6 @@
 </div>
 <div align="center">
     <img alt="Demo" src="Release_Book.png" width="30%" />
-    <img alt="Demo" src="Search_Book.png" width="30%" />
-    <img alt="Demo" src="Search_Member.png" width="30%" />
+    <img alt="Demo" src="SearchBook.png" width="30%" />
+    <img alt="Demo" src="SearchMember.png" width="30%" />
 </div>
